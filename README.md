@@ -4,9 +4,11 @@
 * I was bored
 * I wanted to try to make a website (yes, this is my first time making a website, so it may be bad)
 * Yeah, that's all
-* Btw I took a free template and I modified it, so I didn't really made a website from scratch
-  * Click [here](https://www.github.com/DanyB0/Tokyo-Neon) to view a website I made from scartch
-
+* Btw I took a free template and I modified it, so I didn't really made a website from scratch.
+* Here's a list of websites I made from scratch
+  * [My Website](https://www.github.com/DanyB0/danyb0.github.io)
+  * [Tokyo Neon](https://www.github.com/DanyB0/Tokyo-Neon)
+  
 ## Link to the site
 ### Click the link below to visit the website (it's better on pc)
 ### https://danyb0.me/
