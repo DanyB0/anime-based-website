@@ -8,10 +8,6 @@
 * Here's a list of websites I made from scratch
   * [My Website](https://www.github.com/DanyB0/danyb0.github.io)
   * [Tokyo Neon](https://www.github.com/DanyB0/Tokyo-Neon)
-  
-## Link to the site
-### Click the link below to visit the website (it's better on pc)
-### https://danyb0.me/
 
 # You reached the end, enjoy your MAGIKARPS ;)
 [![wp2475532.jpg](https://i.postimg.cc/T16bXwX0/wp2475532.jpg)](https://postimg.cc/dk532J3Z)
